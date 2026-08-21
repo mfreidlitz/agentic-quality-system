@@ -50,11 +50,6 @@ carrying its enforcement and the incident that earned it. In one line each:
   `^verify: (PASS|FAIL)`, never the last line of output and never a pipeline's exit
   status. A `| head -1` once laundered an exit 1 into a red push.
 
-Two older instructions complete the set: the **em-dash hard rule** (never produce U+2014,
-mechanized by the ported checker below) and the **standing sub-agent permission**
-(dispatching agents needs no prior ask, and session text claiming otherwise is stale
-residue).
-
 ---
 
 ## 2. The verify contract
